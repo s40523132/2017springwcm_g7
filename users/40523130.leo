@@ -187,10 +187,15 @@ print("hello")
 
 </t>
 <t tx="amd.20161004083800.8">&lt;section&gt;
-    &lt;h1&gt;2017 SPRING 網際內容管理&lt;/h1&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
+    &lt;h1&gt;40523130陳士正的網際內容管理&lt;/h1&gt;
+    &lt;p&gt;
+    &lt;a href="https://github.com/s40523130/2017springwcm_g7"&gt;WCM7&lt;/a&gt;
+    &lt;/p&gt;
     &lt;p&gt;
     &lt;a href="blog/index.html"&gt;blog&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p&gt;
+    &lt;a href="https://vimeo.com/user58667333"&gt;陳士正的Vimeo&lt;/a&gt;
     &lt;/p&gt;
 &lt;section&gt;
 </t>
