@@ -27,7 +27,9 @@
 <v t="amd.20161004083800.5" a="E"><vh>body</vh>
 <v t="amd.20161004083800.6" a="E"><vh>reveal div</vh>
 <v t="amd.20161004083800.7" a="E"><vh>slides div</vh>
+<v t="leo.20170425224553.1" a="E"><vh>封面投影片</vh>
 <v t="amd.20161004083800.8"><vh>blog</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -186,18 +188,16 @@ print("hello")
 &lt;/div&gt;
 
 </t>
-<t tx="amd.20161004083800.8">&lt;section&gt;
-    &lt;h1&gt;40523130陳士正的網際內容管理&lt;/h1&gt;
-    &lt;p&gt;
-    &lt;a href="https://github.com/s40523130/2017springwcm_g7"&gt;WCM7&lt;/a&gt;
-    &lt;/p&gt;
-    &lt;p&gt;
-    &lt;a href="blog/index.html"&gt;blog&lt;/a&gt;
-    &lt;/p&gt;
-    &lt;p&gt;
-    &lt;a href="https://vimeo.com/user58667333"&gt;陳士正的Vimeo&lt;/a&gt;
-    &lt;/p&gt;
-&lt;section&gt;
+<t tx="amd.20161004083800.8"># 40523132陳崴的網際網路管理課程
+
+
+&lt;small&gt;
+Created by [WCM7](https://github.com/s40523132/2017springwcm_g7)
+&lt;/small&gt;
+
+[陳崴的Blog](blog/index.html) &lt;br/&gt;
+[陳崴的Wiki](https://github.com/s40523132/2016fallcp_hw/wiki) &lt;br/&gt;
+[陳崴的vimeo](https://vimeo.com/user58668068) &lt;br/&gt;
 </t>
 <t tx="leo.20151212173315.1"></t>
 <t tx="leo.20151212173315.2">QTreeWidget {
@@ -467,5 +467,12 @@ def domake():
 # 利用執行緒執行 https 伺服器
 make = threading.Thread(target=domake)
 make.start()</t>
+<t tx="leo.20170425224553.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
 </tnodes>
 </leo_file>
