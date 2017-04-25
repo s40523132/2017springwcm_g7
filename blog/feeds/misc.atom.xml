@@ -4,9 +4,14 @@
 &lt;p&gt;開啟SciTE編輯start.bat找到python.exe開啟之後再讀取launchLeo.py然後在哪裡&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/214636780" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/214636780"&gt;自行開啟Leo&lt;/a&gt; from &lt;a href="https://vimeo.com/user58667333"&gt;陳士正&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/214636780"&gt;自行開啟Leo&lt;/a&gt; from &lt;a href="https://vimeo.com/user58667333"&gt;陳士正&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="Leo"></category><category term="python"></category></entry><entry><title>自製網路線</title><link href="./zi-zhi-wang-lu-xian.html" rel="alternate"></link><published>2017-04-25T11:00:00+08:00</published><updated>2017-04-25T11:00:00+08:00</updated><author><name>40523130</name></author><id>tag:,2017-04-25:./zi-zhi-wang-lu-xian.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;p&gt;&lt;img src="images/20170425/test.jpg" /&gt;&lt;/p&gt;</summary><category term="Leo"></category><category term="python"></category></entry><entry><title>2017-04-21上課內容練習</title><link href="./2017-04-21shang-ke-nei-rong-lian-xi.html" rel="alternate"></link><published>2017-04-23T12:00:00+08:00</published><updated>2017-04-23T12:00:00+08:00</updated><author><name>40523130</name></author><id>tag:,2017-04-23:./2017-04-21shang-ke-nei-rong-lian-xi.html</id><summary type="html">&lt;p&gt;在Virtualbox中,以橋接網路卡設定,建立一台 Ubuntu伺服主機&lt;/p&gt;
+&lt;p&gt;先準備好8蕊網路線 RJ-45接頭和剪刀還有壓線鉗&lt;/p&gt;
+&lt;p&gt;用剪刀將網路線外皮剝除,之後將雙絞線進行分類,兩端的網路接頭皆為T568B為一般傳輸用網路線,T568B配線顏色順序為白橙、橙、白綠、藍、白藍、綠、白棕、棕再將前端不整齊的部分修剪整齊套入RJ45接頭用壓線鉗壓僅完成壓線
+跳線:兩台電腦資料對傳用一頭用T568B另一頭用T568A配線,T568A配線順序為白綠、綠、白橙、藍、白藍、橙、白棕、棕&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/214660766" width="640" height="1138" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/214660766"&gt;網路線製作&lt;/a&gt; from &lt;a href="https://vimeo.com/user58667333"&gt;陳士正&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="8蕊網路線 RJ-45接頭 剪刀 壓線鉗"></category></entry><entry><title>2017-04-21上課內容練習</title><link href="./2017-04-21shang-ke-nei-rong-lian-xi.html" rel="alternate"></link><published>2017-04-23T12:00:00+08:00</published><updated>2017-04-23T12:00:00+08:00</updated><author><name>40523130</name></author><id>tag:,2017-04-23:./2017-04-21shang-ke-nei-rong-lian-xi.html</id><summary type="html">&lt;p&gt;在Virtualbox中,以橋接網路卡設定,建立一台 Ubuntu伺服主機&lt;/p&gt;
 
 
 &lt;p&gt;sudo apt update幫我們把下載的網站資料update到最新,如果不行就用 sudo rm /var/lib/dpkg/lock 把lock刪除掉 , sudo apt install nginx 安裝nginx ,用ifconfig再到外部的瀏覽器打上IP:80就可以看到,如果像要知道檔案在哪裡就 cd /var/www/html , ls -l ,sudo vi index.nginx-debian.html 就可更改&lt;/p&gt;
