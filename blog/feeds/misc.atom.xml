@@ -48,8 +48,7 @@
 &lt;p&gt;7.sudo vi index.nginx-debian.html&lt;/p&gt;
 &lt;p&gt;8.clear&lt;/p&gt;
 &lt;p&gt;9.pwd&lt;/p&gt;
-&lt;p&gt;10.history&lt;/p&gt;</summary><category term="fossil"></category></entry><entry><title>2017-04-24 期中心得</title><link href="./2017-04-24-qi-zhong-xin-de.html" rel="alternate"></link><published>2017-04-24T12:00:00+08:00</published><updated>2017-04-24T12:00:00+08:00</updated><author><name>40523132</name></author><id>tag:,2017-04-24:./2017-04-24-qi-zhong-xin-de.html</id><summary type="html">&lt;p&gt;期中心得&lt;/p&gt;
-
+&lt;p&gt;10.history&lt;/p&gt;</summary><category term="fossil"></category></entry><entry><title>2017-04-24 上課筆記</title><link href="./2017-04-24-shang-ke-bi-ji.html" rel="alternate"></link><published>2017-04-24T12:00:00+08:00</published><updated>2017-04-24T12:00:00+08:00</updated><author><name>40523132</name></author><id>tag:,2017-04-24:./2017-04-24-shang-ke-bi-ji.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;即便我不知道完整答案我也會舉例   設計是一種表達  表達意義在"設"上&lt;/p&gt;
 &lt;p&gt;1.口語表達 2.文字表達 3.2D圖像表達 4.3D圖像表達 5.量化.定性方法 6.實際操作&lt;/p&gt;
@@ -63,39 +62,11 @@
 &lt;p&gt;我們要利用 虛實整合設計工程師  虛:數位化 實:實作   網際內容管理在"虛"裡做"實"的內容&lt;/p&gt;
 &lt;p&gt;10/100 Mbps&lt;/p&gt;
 &lt;p&gt;1byte= 8bits&lt;/p&gt;
-&lt;p&gt;DNS:網域名稱系統(Domain Name System)&lt;/p&gt;
-&lt;p&gt;開啟USB裡的cmsimfly:&lt;/p&gt;
+&lt;p&gt;DNS:網域名稱系統(Domain Name System)&lt;/p&gt;</summary><category term="fossil"></category></entry><entry><title>2017-04-23 如何開啟USB裡的cmsimfly</title><link href="./2017-04-23-ru-he-kai-qi-usbli-de-cmsimfly.html" rel="alternate"></link><published>2017-04-23T12:00:00+08:00</published><updated>2017-04-23T12:00:00+08:00</updated><author><name>40523132</name></author><id>tag:,2017-04-23:./2017-04-23-ru-he-kai-qi-usbli-de-cmsimfly.html</id><summary type="html">&lt;p&gt;開啟USB裡的cmsimfly&lt;/p&gt;
+
+
+&lt;p&gt;利用指令在近端開啟cmsimfly:&lt;/p&gt;
 &lt;p&gt;1.cd tmp 2.cd cmsimfly 3.python wsgi.py&lt;/p&gt;
-&lt;p&gt;IP指令:                                 &lt;/p&gt;
-&lt;p&gt;1.查自己的IP:ipconfing /all&lt;/p&gt;
-&lt;p&gt;2.ping 自己 IP                            &lt;/p&gt;
-&lt;p&gt;3.ping Gateway IP                         &lt;/p&gt;
-&lt;p&gt;4.ping 外部 Gateway                       &lt;/p&gt;
-&lt;p&gt;5.ping 外部 Ip                            &lt;/p&gt;
-&lt;p&gt;6.tracert 區域網路主要網站               &lt;/p&gt;
-&lt;p&gt;7.tracert 廣域網路主要&lt;/p&gt;
-&lt;p&gt;8.ls -l 長型列印 long list&lt;/p&gt;
-&lt;p&gt;9.clear (cls)&lt;/p&gt;
-&lt;p&gt;fossil指令:&lt;/p&gt;
-&lt;p&gt;1.fossil clone uri fossil_file&lt;/p&gt;
-&lt;p&gt;2.fossil open&lt;/p&gt;
-&lt;p&gt;3.fossil add&lt;/p&gt;
-&lt;p&gt;4.fossil commint -m&lt;/p&gt;
-&lt;p&gt;5.fossil remote-url off&lt;/p&gt;
-&lt;p&gt;6.fossil push&lt;/p&gt;
-&lt;p&gt;7.fossil sql -R vcp.fossil  查資料
-  select login,pw,cap from user;  選擇要的資料&lt;/p&gt;
-&lt;p&gt;ubuntu常用指令:&lt;/p&gt;
-&lt;p&gt;1.sudo apt update&lt;/p&gt;
-&lt;p&gt;2.sudo rm /var/lib/dpkg/lock&lt;/p&gt;
-&lt;p&gt;3.sudo apt install nginx&lt;/p&gt;
-&lt;p&gt;4.ifconfig&lt;/p&gt;
-&lt;p&gt;5.cd /var/www/html&lt;/p&gt;
-&lt;p&gt;6.ls -l&lt;/p&gt;
-&lt;p&gt;7.sudo vi index.nginx-debian.html&lt;/p&gt;
-&lt;p&gt;8.clear&lt;/p&gt;
-&lt;p&gt;9.pwd&lt;/p&gt;
-&lt;p&gt;10.history&lt;/p&gt;</summary><category term="fossil"></category></entry><entry><title>2017-04-23 如何開啟USB裡的cmsimfly</title><link href="./2017-04-23-ru-he-kai-qi-usbli-de-cmsimfly.html" rel="alternate"></link><published>2017-04-23T12:00:00+08:00</published><updated>2017-04-23T12:00:00+08:00</updated><author><name>40523132</name></author><id>tag:,2017-04-23:./2017-04-23-ru-he-kai-qi-usbli-de-cmsimfly.html</id><summary type="html">&lt;p&gt;利用指令在近端開啟cmsimfly&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/214641507" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="https://vimeo.com/214641507"&gt;2017-04-25_17-33-29&lt;/a&gt; from &lt;a href="https://vimeo.com/user58668068"&gt;陳崴&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="fossil"></category></entry></feed>
