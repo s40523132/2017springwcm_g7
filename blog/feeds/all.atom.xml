@@ -18,7 +18,8 @@
 再用壓線鉗壓緊.大功告成&lt;/p&gt;
 &lt;p&gt;這是第一次自己拆線再組起來 作起來超麻煩的 
 而且做出來還不一定就成功 還有可能失敗
-失敗就又要再來過 原來做網路線是很麻煩的事情 &lt;/p&gt;</summary><category term="fossil"></category></entry><entry><title>2017-04-24-2 IP指令</title><link href="./2017-04-24-2-ipzhi-ling.html" rel="alternate"></link><published>2017-04-24T12:00:00+08:00</published><updated>2017-04-24T12:00:00+08:00</updated><author><name>40523132</name></author><id>tag:,2017-04-24:./2017-04-24-2-ipzhi-ling.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+失敗就又要再來過 原來做網路線是很麻煩的事情 &lt;/p&gt;
+&lt;p&gt;&lt;img src="http://imgur.com/rkQt3nG"&gt;&lt;/p&gt;</summary><category term="fossil"></category></entry><entry><title>2017-04-24-2 IP指令</title><link href="./2017-04-24-2-ipzhi-ling.html" rel="alternate"></link><published>2017-04-24T12:00:00+08:00</published><updated>2017-04-24T12:00:00+08:00</updated><author><name>40523132</name></author><id>tag:,2017-04-24:./2017-04-24-2-ipzhi-ling.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;1.查自己的IP:ipconfing /all&lt;/p&gt;
 &lt;p&gt;2.ping 自己 IP                            &lt;/p&gt;
@@ -30,25 +31,24 @@
 &lt;p&gt;8.ls -l 長型列印 long list&lt;/p&gt;
 &lt;p&gt;9.clear (cls)&lt;/p&gt;</summary><category term="fossil"></category></entry><entry><title>2017-04-24-3 fossil指令</title><link href="./2017-04-24-3-fossilzhi-ling.html" rel="alternate"></link><published>2017-04-24T12:00:00+08:00</published><updated>2017-04-24T12:00:00+08:00</updated><author><name>40523132</name></author><id>tag:,2017-04-24:./2017-04-24-3-fossilzhi-ling.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;p&gt;1.fossil clone uri fossil_file&lt;/p&gt;
-&lt;p&gt;2.fossil open&lt;/p&gt;
-&lt;p&gt;3.fossil add&lt;/p&gt;
-&lt;p&gt;4.fossil commint -m&lt;/p&gt;
-&lt;p&gt;5.fossil remote-url off&lt;/p&gt;
-&lt;p&gt;6.fossil push&lt;/p&gt;
+&lt;p&gt;1.fossil clone uri fossil_file      載 uri fossil_file下來&lt;/p&gt;
+&lt;p&gt;2.fossil open                           開啟fossil&lt;/p&gt;
+&lt;p&gt;3.fossil add                             更新fossil&lt;/p&gt;
+&lt;p&gt;4.fossil commint -m                附加訊息&lt;/p&gt;
+&lt;p&gt;5.fossil remote-url off             遙控 url 關閉&lt;/p&gt;
+&lt;p&gt;6.fossil push                           回推&lt;/p&gt;
 &lt;p&gt;7.fossil sql -R vcp.fossil  查資料
-  select login,pw,cap from user;  選擇要的資料&lt;/p&gt;</summary><category term="fossil"></category></entry><entry><title>2017-04-24-4 ubuntu指令</title><link href="./2017-04-24-4-ubuntuzhi-ling.html" rel="alternate"></link><published>2017-04-24T12:00:00+08:00</published><updated>2017-04-24T12:00:00+08:00</updated><author><name>40523132</name></author><id>tag:,2017-04-24:./2017-04-24-4-ubuntuzhi-ling.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+  select login,pw,cap from user;  選擇要的資料&lt;/p&gt;</summary><category term="fossil"></category></entry><entry><title>2017-04-24-4 nginx安裝</title><link href="./2017-04-24-4-nginxan-zhuang.html" rel="alternate"></link><published>2017-04-24T12:00:00+08:00</published><updated>2017-04-24T12:00:00+08:00</updated><author><name>40523132</name></author><id>tag:,2017-04-24:./2017-04-24-4-nginxan-zhuang.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;p&gt;1.sudo apt update&lt;/p&gt;
-&lt;p&gt;2.sudo rm /var/lib/dpkg/lock&lt;/p&gt;
-&lt;p&gt;3.sudo apt install nginx&lt;/p&gt;
-&lt;p&gt;4.ifconfig&lt;/p&gt;
-&lt;p&gt;5.cd /var/www/html&lt;/p&gt;
-&lt;p&gt;6.ls -l&lt;/p&gt;
-&lt;p&gt;7.sudo vi index.nginx-debian.html&lt;/p&gt;
-&lt;p&gt;8.clear&lt;/p&gt;
-&lt;p&gt;9.pwd&lt;/p&gt;
-&lt;p&gt;10.history&lt;/p&gt;</summary><category term="fossil"></category></entry><entry><title>2017-04-24 上課筆記</title><link href="./2017-04-24-shang-ke-bi-ji.html" rel="alternate"></link><published>2017-04-24T12:00:00+08:00</published><updated>2017-04-24T12:00:00+08:00</updated><author><name>40523132</name></author><id>tag:,2017-04-24:./2017-04-24-shang-ke-bi-ji.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;1.sudo apt update                                 下載安裝更新&lt;/p&gt;
+&lt;p&gt;2.sudo rm /var/lib/dpkg/lock                 刪除lock&lt;/p&gt;
+&lt;p&gt;3.sudo apt install nginx                         安裝nginx&lt;/p&gt;
+&lt;p&gt;4.ifconfig                                             查ip&lt;/p&gt;
+&lt;p&gt;5.cd /var/www/html                             指定到/var/www/html&lt;/p&gt;
+&lt;p&gt;6.ls -l                                                   列出目前資料夾&lt;/p&gt;
+&lt;p&gt;7.sudo vi index.nginx-debian.html         進入index.nginx-debian.html編輯&lt;/p&gt;
+&lt;p&gt;8.clear                                                 清除所有指令&lt;/p&gt;
+&lt;p&gt;9.history                                               列出所有指令&lt;/p&gt;</summary><category term="fossil"></category></entry><entry><title>2017-04-24 上課筆記</title><link href="./2017-04-24-shang-ke-bi-ji.html" rel="alternate"></link><published>2017-04-24T12:00:00+08:00</published><updated>2017-04-24T12:00:00+08:00</updated><author><name>40523132</name></author><id>tag:,2017-04-24:./2017-04-24-shang-ke-bi-ji.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;即便我不知道完整答案我也會舉例   設計是一種表達  表達意義在"設"上&lt;/p&gt;
 &lt;p&gt;1.口語表達 2.文字表達 3.2D圖像表達 4.3D圖像表達 5.量化.定性方法 6.實際操作&lt;/p&gt;
