@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>WCM7的作業網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-25T12:00:00+08:00</updated><entry><title>2017-04-25 製作網路線心得</title><link href="./2017-04-25-zhi-zuo-wang-lu-xian-xin-de.html" rel="alternate"></link><published>2017-04-25T12:00:00+08:00</published><updated>2017-04-25T12:00:00+08:00</updated><author><name>40523132</name></author><id>tag:,2017-04-25:./2017-04-25-zhi-zuo-wang-lu-xian-xin-de.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>WCM7的作業網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-26T12:00:00+08:00</updated><entry><title>2017-04-26 期中心得</title><link href="./2017-04-26-qi-zhong-xin-de.html" rel="alternate"></link><published>2017-04-26T12:00:00+08:00</published><updated>2017-04-26T12:00:00+08:00</updated><author><name>40523132</name></author><id>tag:,2017-04-26:./2017-04-26-qi-zhong-xin-de.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;1.這次老師也教了很多新的東西,雖然有很多我還是不懂,但是我&lt;/p&gt;
+&lt;p&gt;也盡力了,像是virtualbox的安裝.ubuntu的安裝加上裡面也要設定&lt;/p&gt;
+&lt;p&gt;網路和一些小地方.&lt;/p&gt;
+&lt;p&gt;2.上次老師教的如何在虛擬主機開啟伺服器,這個我就沒做成功,&lt;/p&gt;
+&lt;p&gt;開一個伺服器原來是那麼難的一件事情,雖然我很想學但是再&lt;/p&gt;
+&lt;p&gt;短時間內學會可能有些困難.&lt;/p&gt;
+&lt;p&gt;3.從一開始上課到現在目前教過的程式加上一些實用的技能,真的&lt;/p&gt;
+&lt;p&gt;很謝謝老師那麼用心的教導,雖然不是全部都有學起來,但我相信以&lt;/p&gt;
+&lt;p&gt;後一定會應用上的.&lt;/p&gt;</summary><category term="fossil"></category></entry><entry><title>2017-04-25 製作網路線心得</title><link href="./2017-04-25-zhi-zuo-wang-lu-xian-xin-de.html" rel="alternate"></link><published>2017-04-25T12:00:00+08:00</published><updated>2017-04-25T12:00:00+08:00</updated><author><name>40523132</name></author><id>tag:,2017-04-25:./2017-04-25-zhi-zuo-wang-lu-xian-xin-de.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;須先準備1條568B線.壓線鉗.接頭&lt;/p&gt;
 &lt;p&gt;先用壓線鉗把外套拆掉.再把裡面4對線分別分開
@@ -8,7 +18,37 @@
 再用壓線鉗壓緊.大功告成&lt;/p&gt;
 &lt;p&gt;這是第一次自己拆線再組起來 作起來超麻煩的 
 而且做出來還不一定就成功 還有可能失敗
-失敗就又要再來過 原來做網路線是很麻煩的事情 &lt;/p&gt;</summary><category term="fossil"></category></entry><entry><title>2017-04-24 期中心得</title><link href="./2017-04-24-qi-zhong-xin-de.html" rel="alternate"></link><published>2017-04-24T12:00:00+08:00</published><updated>2017-04-24T12:00:00+08:00</updated><author><name>40523132</name></author><id>tag:,2017-04-24:./2017-04-24-qi-zhong-xin-de.html</id><summary type="html">&lt;p&gt;期中心得&lt;/p&gt;
+失敗就又要再來過 原來做網路線是很麻煩的事情 &lt;/p&gt;</summary><category term="fossil"></category></entry><entry><title>2017-04-24-2 IP指令</title><link href="./2017-04-24-2-ipzhi-ling.html" rel="alternate"></link><published>2017-04-24T12:00:00+08:00</published><updated>2017-04-24T12:00:00+08:00</updated><author><name>40523132</name></author><id>tag:,2017-04-24:./2017-04-24-2-ipzhi-ling.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;1.查自己的IP:ipconfing /all&lt;/p&gt;
+&lt;p&gt;2.ping 自己 IP                            &lt;/p&gt;
+&lt;p&gt;3.ping Gateway IP                         &lt;/p&gt;
+&lt;p&gt;4.ping 外部 Gateway                       &lt;/p&gt;
+&lt;p&gt;5.ping 外部 Ip                            &lt;/p&gt;
+&lt;p&gt;6.tracert 區域網路主要網站               &lt;/p&gt;
+&lt;p&gt;7.tracert 廣域網路主要&lt;/p&gt;
+&lt;p&gt;8.ls -l 長型列印 long list&lt;/p&gt;
+&lt;p&gt;9.clear (cls)&lt;/p&gt;</summary><category term="fossil"></category></entry><entry><title>2017-04-24-3 fossil指令</title><link href="./2017-04-24-3-fossilzhi-ling.html" rel="alternate"></link><published>2017-04-24T12:00:00+08:00</published><updated>2017-04-24T12:00:00+08:00</updated><author><name>40523132</name></author><id>tag:,2017-04-24:./2017-04-24-3-fossilzhi-ling.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;1.fossil clone uri fossil_file&lt;/p&gt;
+&lt;p&gt;2.fossil open&lt;/p&gt;
+&lt;p&gt;3.fossil add&lt;/p&gt;
+&lt;p&gt;4.fossil commint -m&lt;/p&gt;
+&lt;p&gt;5.fossil remote-url off&lt;/p&gt;
+&lt;p&gt;6.fossil push&lt;/p&gt;
+&lt;p&gt;7.fossil sql -R vcp.fossil  查資料
+  select login,pw,cap from user;  選擇要的資料&lt;/p&gt;</summary><category term="fossil"></category></entry><entry><title>2017-04-24-4 ubuntu指令</title><link href="./2017-04-24-4-ubuntuzhi-ling.html" rel="alternate"></link><published>2017-04-24T12:00:00+08:00</published><updated>2017-04-24T12:00:00+08:00</updated><author><name>40523132</name></author><id>tag:,2017-04-24:./2017-04-24-4-ubuntuzhi-ling.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;1.sudo apt update&lt;/p&gt;
+&lt;p&gt;2.sudo rm /var/lib/dpkg/lock&lt;/p&gt;
+&lt;p&gt;3.sudo apt install nginx&lt;/p&gt;
+&lt;p&gt;4.ifconfig&lt;/p&gt;
+&lt;p&gt;5.cd /var/www/html&lt;/p&gt;
+&lt;p&gt;6.ls -l&lt;/p&gt;
+&lt;p&gt;7.sudo vi index.nginx-debian.html&lt;/p&gt;
+&lt;p&gt;8.clear&lt;/p&gt;
+&lt;p&gt;9.pwd&lt;/p&gt;
+&lt;p&gt;10.history&lt;/p&gt;</summary><category term="fossil"></category></entry><entry><title>2017-04-24 期中心得</title><link href="./2017-04-24-qi-zhong-xin-de.html" rel="alternate"></link><published>2017-04-24T12:00:00+08:00</published><updated>2017-04-24T12:00:00+08:00</updated><author><name>40523132</name></author><id>tag:,2017-04-24:./2017-04-24-qi-zhong-xin-de.html</id><summary type="html">&lt;p&gt;期中心得&lt;/p&gt;
 
 
 &lt;p&gt;即便我不知道完整答案我也會舉例   設計是一種表達  表達意義在"設"上&lt;/p&gt;
